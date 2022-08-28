@@ -3,11 +3,11 @@ services:
   pyro:
     build: .
     environment:
-      API_HASH: $API_HASH
-      API_HASH: $API_HASH
-      BOT_TOKEN: $BOT_TOKEN
-      FORCE_SUB: $FORCE_SUB
-      ADMIN: $ADMIN
-      DB_URL: $DATABASE_URI
-      DB_NAME: $DATABASE_NAME
+      API_HASH: 64768b13ad128efb403abb958705f764
+      API_HASH: 64768b13ad128efb403abb958705f764
+      BOT_TOKEN: 5425760389:AAHMX96nUhbW7EX9ZLXconXX5GhXM_5aN3s
+      FORCE_SUB: -1001531793409
+      ADMIN: 5531461861 5780141317
+      DB_URL: mongodb+srv://adish:adish@cluster0.yq7v2.mongodb.net/?retryWrites=true&w=majority
+      DB_NAME: Cluster0
       
